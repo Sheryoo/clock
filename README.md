@@ -1,12 +1,12 @@
 # Clock
 
-> This is very simple app to view the clock using html,css,javascript
+> This is a very simple app to view the clock using HTML, CSS, and Javascript
 
 ## Built With
 
-* html 
-* css
-* javascript 
+* HTML 
+* CSS
+* Javascript 
 * Love
 
 ## Authors
